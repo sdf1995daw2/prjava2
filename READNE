@@ -1,0 +1,4 @@
+1- http://www.collados.org/daw2/m08/uf4/Prjava02.java.zip
+5. git checkout master git status prjava02
+10- git checkout master sudo nano prova02.java git merge --ff
+10- git checkout branca 01 git merge --ff branca00 git push prjava02 
